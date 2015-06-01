@@ -1,4 +1,4 @@
-workspace '../Examples.xcworkspace'
+workspace 'Examples.xcworkspace'
 
 link_with 'BasicMenu'
 xcodeproj 'BasicMenu/BasicMenu.xcodeproj'
